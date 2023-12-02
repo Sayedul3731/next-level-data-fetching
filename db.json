@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "likeCount": 60
+        },
+        {
+          "id": 2,
+          "title": "Dolor Sit Amet",
+          "description": "Dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Proin tincidunt nisl non mauris fermentum, eu vehicula eros luctus. Sed nec justo euismod, auctor massa non, efficitur felis.",
+          "likeCount": 270
+        },
+        {
+          "id": 3,
+          "title": "Adipiscing Elit",
+          "description": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "likeCount": 35
+        },
+        {
+          "id": 4,
+          "title": "Consectetur",
+          "description": "Consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "likeCount": 18
+        },
+        {
+          "id": 5,
+          "title": "Ut Labore Et Dolore",
+          "description": "Ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+          "likeCount": 56
+        },
+        {
+          "id": 6,
+          "title": "Exercitation Ullamco",
+          "description": "Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+          "likeCount": 63
+        }
+      ]
+      
+}

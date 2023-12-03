@@ -1,7 +1,6 @@
 "use client"
-import Link from 'next/link';
 import React, { useEffect, useState } from 'react';
-
+import styles from "./Users.module.css"
 const Users = () => {
     const [users, setUsers] = useState([]);
 
@@ -12,7 +11,7 @@ const Users = () => {
     },[])
     return (
         <div>
-            <h1>Users: {users.length} </h1>
+            <h1 className={styles.header_text}>Users: {users.length} </h1>
             {
                 users.map(user => <div key={user.id} className="card w-[70%] my-5 mx-auto bg-base-100 shadow-xl">
                 <div className="card-body">
